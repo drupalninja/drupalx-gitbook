@@ -2,7 +2,7 @@
 
 The **DrupalX install profile** is designed to provide robust configuration for building pages using the Drupal Layout Builder. It integrates with several contributed modules to enhance the editor's experience.
 
-<figure><img src=".gitbook/assets/layout-builder.png" alt=""><figcaption><p>DrupalX Layout builder screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/layout-builder.png" alt=""><figcaption><p>DrupalX Layout builder screenshot</p></figcaption></figure>
 
 ### **Key Features**
 

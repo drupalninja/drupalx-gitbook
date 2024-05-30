@@ -16,7 +16,7 @@ All DrupalX components are organized within the `src/stories/components` directo
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/component files.png" alt="" width="188"><figcaption><p>DrupalX component files</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/component files.png" alt="" width="188"><figcaption><p>DrupalX component files</p></figcaption></figure>
 
 </div>
 
@@ -38,7 +38,7 @@ Key files for modifying Bootstrap are located in the `./src/stories/global/` dir
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/global files.png" alt="" width="147"><figcaption><p>DrupalX global directory</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global files.png" alt="" width="147"><figcaption><p>DrupalX global directory</p></figcaption></figure>
 
 </div>
 
