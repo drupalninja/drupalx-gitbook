@@ -27,7 +27,7 @@ The DrupalX Demo leverages Tome to facilitate export to [Netlify](https://www.ne
     Export your site to static files:
 
     ```bash
-    $ ddev drush tome:static --uri=https://yourproductionurl
+    $ ddev drush tome:static --uri=https://yourproductionurl --path-count=1 --process-count=1
     ```
 4.  **Navigate to the HTML Directory**
 
@@ -41,7 +41,7 @@ The DrupalX Demo leverages Tome to facilitate export to [Netlify](https://www.ne
     Deploy the static site to Netlify. For optimal results, set the process count and path count to 1. This avoids issues with the active menu link not appearing correctly:
 
     ```bash
-    $ netlify deploy --site yoursitename --prod --path-count=1 --process-count=1
+    $ netlify deploy --site yoursitename --prod
     ```
 6.  **Configure URLs on Netlify**
 
