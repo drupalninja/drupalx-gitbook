@@ -9,7 +9,7 @@ The DrupalX distribution builds upon the popular `drupal-composer/drupal-project
 Initialize your project using Composer:
 
 ```bash
-$ composer create-project drupalninja/drupalx-project:10.x-dev some-dir --no-interaction
+composer create-project drupalninja/drupalx-project:10.x-dev some-dir --no-interaction
 ```
 
 After running this command, review the generated `composer.json` file to understand the project's organization. All contributed modules and themes are managed through Composer, making them easy to modify.
@@ -25,14 +25,14 @@ Our project template comes with DDEV as the default development environment.
     Run the DDEV configuration:
 
     ```bash
-    $ ddev config
+    ddev config
     ```
 2.  **Install DrupalX**
 
     Run the custom install command to start DDEV, install Composer dependencies, and install the 'drupalx' profile:
 
     ```bash
-    $ ddev install
+    ddev install
     ```
 
     After the installation, the application will open in a new browser tab.

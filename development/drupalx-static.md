@@ -13,35 +13,35 @@ The DrupalX Demo leverages Tome to facilitate export to [Netlify](https://www.ne
     Add the latest development version of Tome (compatible with Drush 12) to your project:
 
     ```bash
-    $ composer require drupal/tome:1.x-dev
+    composer require drupal/tome:1.x-dev
     ```
 2.  **Enable the Tome Static Module**
 
     Enable the Tome static module using Drush:
 
     ```bash
-    $ ddev drush en -y tome_static
+    ddev drush en -y tome_static
     ```
 3.  **Export the Site Using Drush**
 
     Export your site to static files:
 
     ```bash
-    $ ddev drush tome:static --uri=https://yourproductionurl --path-count=1 --process-count=1
+    ddev drush tome:static --uri=https://yourproductionurl --path-count=1 --process-count=1
     ```
 4.  **Navigate to the HTML Directory**
 
     Change to the `/html` directory:
 
     ```bash
-    $ cd html
+    cd html
     ```
 5.  **Deploy to Netlify**
 
     Deploy the static site to Netlify. For optimal results, set the process count and path count to 1. This avoids issues with the active menu link not appearing correctly:
 
     ```bash
-    $ netlify deploy --site yoursitename --prod
+    netlify deploy --site yoursitename --prod
     ```
 6.  **Configure URLs on Netlify**
 

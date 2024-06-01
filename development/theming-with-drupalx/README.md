@@ -23,7 +23,7 @@ All DrupalX components are organized within the `src/stories/components` directo
 To launch your local Storybook, run the following command from the root directory of your theme:
 
 ```bash
-$ npm run storybook
+npm run storybook
 ```
 
 **Bootstrap**
@@ -51,8 +51,8 @@ Most libraries are attached within integration templates provided in each compon
 Libraries point to compiled asset files located in the theme's `dist` folder. These files are updated via:
 
 ```bash
-$ npm run build
-$ npm run watch
+npm run build
+npm run watch
 ```
 
 **Drupal Integration Templates**
