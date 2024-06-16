@@ -6,6 +6,10 @@ Welcome to DrupalX! This guide will help you set up and configure your DrupalX p
 
 DrupalX is designed to offer maximum flexibility for developers, enabling you to create custom solutions without 'lock-in' or hassle. By following this guide, you'll learn how to set up your project using the DrupalX project template and configure it to meet your specific needs.
 
+{% embed url="https://www.youtube.com/watch?v=aSXp2UosOf4" %}
+Installing DrupalX
+{% endembed %}
+
 ### Sections
 
 1. **Installation**
