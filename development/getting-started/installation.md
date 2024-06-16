@@ -9,7 +9,7 @@ The DrupalX distribution builds upon the popular `drupal-composer/drupal-project
 Initialize your project using Composer:
 
 ```bash
-composer create-project drupalninja/drupalx-project:10.x-dev some-dir --no-interaction
+composer create-project drupalninja/drupalx-project:10.x-dev drupalx-project --no-interaction
 ```
 
 After running this command, review the generated `composer.json` file to understand the project's organization. All contributed modules and themes are managed through Composer, making them easy to modify.
