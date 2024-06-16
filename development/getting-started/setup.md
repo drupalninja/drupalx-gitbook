@@ -9,13 +9,13 @@ DrupalX is designed to offer enterprise developers maximum flexibility in creati
 One of the first steps is to export your configuration to the `./config/sync` directory. Run the following command:
 
 ```bash
-ddev drush cex -y
+ddev . drush cex -y
 ```
 
 From this point, you own all the configuration. To install your site with this configuration, run:
 
 ```bash
-ddev drush si -y drupalx --existing-config
+ddev . drush si -y drupalx --existing-config
 ```
 
 ### **Modifying the Install Profile**
