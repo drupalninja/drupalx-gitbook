@@ -6,6 +6,10 @@ The DrupalX project template includes several optional dependencies, with more t
 
 #### **DrupalX Bootswatch Module**
 
+{% embed url="https://www.youtube.com/watch?v=8RKPJs5Kdr4" %}
+Bootswatch demo
+{% endembed %}
+
 The **DrupalX Bootswatch module** adds a Drush command that enables easy integration with [Bootswatch](https://bootswatch.com) Bootstrap theme templates, facilitating rapid development. For detailed instructions on using this module, refer to the [DrupalX Bootswatch guide](theming-with-drupalx/drupalx-bootswatch.md).
 
 #### **DrupalX Theme Project**
