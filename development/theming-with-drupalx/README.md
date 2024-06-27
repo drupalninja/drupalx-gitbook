@@ -4,7 +4,7 @@
 
 DrupalX employs the Drupal "[Starterkit](https://www.drupal.org/docs/core-modules-and-themes/core-themes/starterkit-theme)" approach to theming, which is detailed on Drupal.org.
 
-Instead of using the DrupalX theme as a base theme, it is intended to be used as a starter theme. Detailed instructions on this approach are available in the [DrupalX theme GitHub repository](https://github.com/drupalninja/drupalx-theme).
+Instead of using the DrupalX theme as a base theme, it is intended to be used as a starter theme. Detailed instructions on this approach are available in the [DrupalX theme GitHub repository](https://github.com/drupalninja/drupalx\_theme).
 
 ### Customizing Your Theme
 
