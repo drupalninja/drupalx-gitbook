@@ -6,5 +6,4 @@ Beyond its powerful AI features, DrupalX accelerates website creation through an
 
 This GitBook provides comprehensive documentation on how to install DrupalX CMS, manage content, and customize themes. Whether you're a new user or an experienced Drupal developer, you'll find everything you need to get started with DrupalX in this guide.
 
-<figure><img src=".gitbook/assets/screencapture-drupalx-graphql-ddev-site-welcome-2024-12-07-12_36_37.png" alt=""><figcaption><p>DrupalX CMS screenshot</p></figcaption></figure>
-
+<figure><img src=".gitbook/assets/homepage.gif" alt=""><figcaption><p>DrupalX homepage</p></figcaption></figure>
