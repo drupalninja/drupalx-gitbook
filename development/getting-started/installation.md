@@ -29,13 +29,13 @@ Our project template comes with DDEV as the default development environment.
     ```
 2.  **Install DrupalX**
 
-    Run the custom install command to start DDEV, install Composer dependencies, and install the 'drupalx' profile:
+    Run the custom install command to start DDEV, install Composer dependencies, and install the DrupalX standard recipes:
 
     ```bash
     ddev install
     ```
 
-    After the installation, the application will open in a new browser tab.
+    After the installation, the application will generate a login link to the user admin.
 
 ### **Problems?**
 

@@ -6,7 +6,7 @@ The Drupal Tome module enables the export of DrupalX sites to static files. Deta
 
 #### **Example Usage**
 
-The DrupalX Demo leverages Tome to facilitate export to [Netlify](https://www.netlify.com/). Follow these steps to set it up:
+Follow these steps to set it up DrupalX with Tome:
 
 1.  **Add Tome to Composer**
 
